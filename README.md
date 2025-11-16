@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Dương Quốc</h1>
+<h1 align="center">Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span></h1>
+
 <h3 align="center">
   <marquee behavior="scroll" direction="right" scrollamount="6">
     A passionate web developer from VietNam
   </marquee>
 </h3>
-
-<h3 align="left">Profile Views:</h3>
-
+<br />
+<h2 align="left">Profile Views:</h2>
 <table align="left">
   <tr>
     <td>
@@ -30,7 +30,9 @@
     </td>
   </tr>
 </table>
-
+<br />
+---
+<h2 align="left">What I'm Doing:</h2>
 - 🌱 I’m currently learning **FontEnd Developer**
 
 - 💬 Ask me about **WEB**
@@ -38,8 +40,9 @@
 - 📫 How to reach me **quocd0807@gmail.com**
 
 - ⚡ Fun fact **I think I am OK**
-
-<h3 align="left">Connect with me:</h3>
+<br/>
+---
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.facebook.com/duong.quoc.311432" target="_blank">
     <img
@@ -73,7 +76,7 @@
 
 ---
 
-<h3 align="left">💻 Front-End:</h3>
+<h2 align="left">💻 Front-End:</h2>
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" />
@@ -109,7 +112,7 @@
 
 ---
 
-<h3 align="left">🛠️ Back-End:</h3>
+<h2 align="left">🛠️ Back-End:</h2>
 <p align="left">
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
