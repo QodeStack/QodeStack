@@ -5,7 +5,14 @@
   </marquee>
 </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=qodestack&label=Profile%20views&color=0e75b6&style=flat" alt="qodestack" /> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=qodestack&label=Profile%20views&color=0e75b6&style=flat-square"
+    alt="Profile views"
+  />
+  <br />
+  <sub>Thanks for visiting my profile 💚</sub>
+</p>
 
 - 🌱 I’m currently learning **FontEnd Developer**
 
@@ -29,7 +36,7 @@
    <a href="https://www.linkedin.com/in/danh-quoc-duong-444983395" target="_blank">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="linkedin"
       height="30"
       width="40"
