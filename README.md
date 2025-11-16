@@ -30,8 +30,11 @@
     </td>
   </tr>
 </table>
-<br />
+<br/>
+<br/>
+
 ---
+
 <h2 align="left">What I'm Doing:</h2>
 - 🌱 I’m currently learning **FontEnd Developer**
 
@@ -41,7 +44,9 @@
 
 - ⚡ Fun fact **I think I am OK**
 <br/>
+
 ---
+
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.facebook.com/duong.quoc.311432" target="_blank">
@@ -110,7 +115,6 @@
   </a>
 </p>
 
----
 
 <h2 align="left">🛠️ Back-End:</h2>
 <p align="left">
