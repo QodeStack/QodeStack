@@ -58,8 +58,8 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
       alt="abc"
-      height="30"
-      width="40"
+      height="40"
+      width="50"
     />
   </a>
    <a href="https://www.linkedin.com/in/danh-quoc-duong-444983395" target="_blank">
@@ -67,8 +67,8 @@
       align="center"
       src="https://github.com/vulebaolong/vulebaolong/raw/main/asset/linkedin.svg"
       alt="linkedin"
-      height="40"
-      width="50"
+      height="50"
+      width="60"
     />
    </a>
   <!-- Instagram -->
@@ -77,8 +77,8 @@
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="instagram"
-      height="30"
-      width="40"
+      height="40"
+      width="50"
     />
   </a>
 </p>
