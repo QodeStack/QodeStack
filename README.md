@@ -92,24 +92,8 @@
   
 
 <h2 align="left">🛠️ Back-End:</h2>
-<p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40" />
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="express" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40" />
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
-  </a>
+<p align="left" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/2edb37617a3efa3a9f42135211e6313aa71bdf8a39aa73365a6613d5befe866e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c6d6f6e676f64622c6e6573746a732c657870726573732c6d7973716c2c74732c6a732c707974686f6e2c646f636b65722c6669726562617365"><img src="https://camo.githubusercontent.com/2edb37617a3efa3a9f42135211e6313aa71bdf8a39aa73365a6613d5befe866e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6e6f64656a732c6d6f6e676f64622c6e6573746a732c657870726573732c6d7973716c2c74732c6a732c707974686f6e2c646f636b65722c6669726562617365" data-canonical-src="https://skillicons.dev/icons?i=nodejs,mongodb,nestjs,express,mysql,ts,js,python,docker,firebase" style="max-width: 100%;"></a>
 </p>
+  
 
