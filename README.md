@@ -67,8 +67,8 @@
       align="center"
       src="https://github.com/vulebaolong/vulebaolong/raw/main/asset/linkedin.svg"
       alt="linkedin"
-      height="30"
-      width="40"
+      height="40"
+      width="50"
     />
    </a>
   <!-- Instagram -->
