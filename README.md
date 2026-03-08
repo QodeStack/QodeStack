@@ -12,7 +12,6 @@ A passionate Web Developer from Vietnam 🇻🇳
 
 <img src="https://komarev.com/ghpvc/?username=qodestack&label=PROFILE%20VIEWS&color=39ff14&style=flat"/>
 
----
 
 <h2>🚀 What I'm Doing</h2>
 
@@ -21,7 +20,6 @@ A passionate Web Developer from Vietnam 🇻🇳
 - 📫 Contact: **quocd0807@gmail.com**
 - ⚡ Fun fact: **I think I am OK**
 
----
 
 <h2>🌐 Connect with me</h2>
 
