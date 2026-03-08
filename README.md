@@ -1,18 +1,16 @@
 <h1 align="center">
-  Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span>
+Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span>
 </h1>
 
 <h3 align="center">
-  A passionate Web Developer from Vietnam 🇻🇳
+A passionate Web Developer from Vietnam 🇻🇳
 </h3>
 
-<table>
-<tr>
-<td width="60%">
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 <h2>👀 Profile Views</h2>
 
-<img src="https://komarev.com/ghpvc/?username=qodestack&label=PROFILE%20VIEWS&color=39ff14&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=qodestack&label=PROFILE%20VIEWS&color=39ff14&style=flat"/>
 
 ---
 
@@ -50,12 +48,3 @@
 <h2>🛠 Back-End</h2>
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,mongodb,mysql,python,docker,firebase"/>
-
-</td>
-
-<td width="40%">
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="100%"/>
-</td>
-
-</tr>
-</table>
