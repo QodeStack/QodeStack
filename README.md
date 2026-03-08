@@ -8,13 +8,13 @@ A passionate Web Developer from Vietnam 🇻🇳
 
 <img align="right" width="380" style="margin-top:-80px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
-<h2>👀 Profile Views</h2>
+👀 Profile Views
 
 <img src="https://komarev.com/ghpvc/?username=qodestack&label=PROFILE%20VIEWS&color=39ff14&style=flat"/>
 
 <br><br>
 
-<h2>🚀 What I'm Doing</h2>
+🚀 What I'm Doing
 
 - 🌱 I’m currently learning **Front-End Developer**
 - 💬 Ask me about **Web Development**
