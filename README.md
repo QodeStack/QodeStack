@@ -6,7 +6,7 @@ Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span>
 A passionate Web Developer from Vietnam 🇻🇳
 </h3>
 
-<img align="right" width="380" style="margin-top:-80px;" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
+<img align="right" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
 
 👀 Profile Views
 
