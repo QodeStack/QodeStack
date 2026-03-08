@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span></h1>
 
 <h3 align="center">
@@ -6,6 +7,7 @@
   </marquee>
 </h3>
 <br />
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <h2 align="left">Profile Views:</h2>
 <table align="left">
   <tr>
