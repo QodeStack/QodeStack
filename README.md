@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span>
+Hi 👋, I'm <span style="color:#FFD700;">Dương Quốc</span> <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>
 </h1>
 
 <h3 align="center">
